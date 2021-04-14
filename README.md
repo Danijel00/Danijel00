@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Danijel Kocić;
+- 👋 Hello there, my name is Danijel Kocić;
 - 👀 I’m interested in programming;
 - 🌱 I’m currently learning: HTML/CSS, JS, PHP, MySQL;
 - 📫 How to reach me?
