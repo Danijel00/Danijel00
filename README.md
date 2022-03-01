@@ -2,10 +2,10 @@
 - 👀 I’m interested in programming;
 - 👨‍💻 I’m currently learning: HTML / SASS, JS, REACT & FIREBASE;
 - 📫 How to reach me?
--![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
- 📧: daki.kocic12@gmail.com; 
--![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 🔗: https://www.linkedin.com/in/danijel-kocić-0b1a8a209/;
--![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&marginTop=10px) 🔗: https://www.instagram.com/danijel_k00/;
+
+📧: daki.kocic12@gmail.com; 
+🔗: https://www.linkedin.com/in/danijel-kocić-0b1a8a209/;
+🔗: https://www.instagram.com/danijel_k00/;
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
