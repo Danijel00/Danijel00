@@ -2,11 +2,11 @@
 - 👀 I’m interested in programming;
 - 👨‍💻 I’m currently learning: HTML / SASS, JS, REACT & FIREBASE;
 - 📫 How to reach me?
-<div></div>
+<div style="display: flex;">
 📧: daki.kocic12@gmail.com; 
 🔗: https://www.linkedin.com/in/danijel-kocić-0b1a8a209/;
 🔗: https://www.instagram.com/danijel_k00/;
-
+</div>
 
 - My Portfolio Website: 🔗 https://personalportfoliodanijekocic.netlify.app/
 
