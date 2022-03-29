@@ -3,9 +3,8 @@
 - 👨‍💻 I’m currently learning: HTML / SASS, JS, REACT & FIREBASE;
 - 📫 How to reach me?
  
-📧: daki.kocic12@gmail.com; 
-🔗: https://www.linkedin.com/in/danijel-kocić-0b1a8a209/;
-🔗: https://www.instagram.com/danijel_k00/;
+- My email: daki.kocic12@gmail.com; 
+- Personal Portfolio: https://www.linkedin.com/in/danijel-kocić-0b1a8a209/;
 
 - My Portfolio Website: 🔗 https://danijelkocicportfolio.netlify.app/
 
