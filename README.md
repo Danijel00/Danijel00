@@ -7,7 +7,7 @@
 🔗: https://www.linkedin.com/in/danijel-kocić-0b1a8a209/;
 🔗: https://www.instagram.com/danijel_k00/;
 
-- My Portfolio Website: 🔗 https://personalportfoliodanijekocic.netlify.app/
+- My Portfolio Website: 🔗 https://danijelkocicportfolio.netlify.app/
 
 
 
