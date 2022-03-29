@@ -4,9 +4,8 @@
 - 📫 How to reach me?
  
 - My email: daki.kocic12@gmail.com; 
-- Personal Portfolio: https://www.linkedin.com/in/danijel-kocić-0b1a8a209/;
-
-- My Portfolio Website: 🔗 https://danijelkocicportfolio.netlify.app/
+- My Linkedin : https://www.linkedin.com/in/danijel-kocić-0b1a8a209/;
+- Personal Portfolio Website: 🔗 https://danijelkocicportfolio.netlify.app/
 
 
 
