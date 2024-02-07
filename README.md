@@ -1,9 +1,8 @@
 - 👋 Hello there, my name is Danijel Kocić;
 - 👀 I’m interested in programming;
-- 👨‍💻 I’m currently learning: HTML, CSS/SASS, JavaScript, React & Firebase;
 - 📫 How to reach me?
  
-- My email: daki.kocic12@gmail.com; 
+- My email: danijel.kocic20@gmail.com; 
 - My Linkedin: https://www.linkedin.com/in/danijel-kocic00;
 - Personal Portfolio Website: 🔗 https://danijelkocicportfolio.netlify.app/
 
