@@ -1,4 +1,4 @@
-- 👋 Hello there, my name is Danijel Kocić;
+- 👋 Hello there, my name is Danijel;
 - 👀 I’m interested in programming;
 - 📫 How to reach me?
  
